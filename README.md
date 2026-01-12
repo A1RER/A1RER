@@ -14,26 +14,9 @@
 ### 📖 我的学习方向
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,git" width="300px"/>
-  <p>✅ 信号与系统 | ✅ 时域/频域分析 | ✅ 卷积/FFT/滤波 | ✅ 算法仿真与实现</p>
+  <p>✅ 信号与系统 | ✅ 时域/频域分析 | ✅ 卷积/FFT/滤波 | ✅ 算法仿真与实现 | 其他... </p>
 </div>
 
-### 📂 我的核心仓库
-<div align="center">
-  <a href="https://github.com/A1RER/signal_system_study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=A1RER&repo=signal_system_study&theme=blueberry&show_owner=true" />
-  </a>
-</div>
-
-### 📊 GitHub 数据统计
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A1RER&show_icons=true&theme=blueberry&rank_icon=github&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1RER&theme=blueberry&hide_border=true" width="48%"/>
-</div>
-
-### 🏆 学习成就
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A1RER&theme=onedark&column=-1&no-frame=true&no-bg=true" />
-</div>
 
 <div align="center">
   <br>
