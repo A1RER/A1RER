@@ -19,7 +19,10 @@
 
 
 <div align="center">
-  <br>
+  <br><div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&width=435&lines=通信工程+信号与系统;Python+MATLAB 双语言;持续学习·持续沉淀" alt="动态打字"/>
+</div>
   <p>⭐ 所有代码均为信号与系统课程实践，持续更新中...</p>
   <p>📌 专注通信工程基础 | 夯实编程与信号处理能力</p>
 </div>
+
