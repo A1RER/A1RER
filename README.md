@@ -19,11 +19,11 @@
 
 ### 🎯 关于我 (About Me)
 
-- 🎓 **University**: Chongqing Univ. of Posts & Telecom (CQUPT)
-- 🔭 **Major**: Electronic Information & Communication Engineering
+- 🎓 **University**: Chongqing Univ. of Posts & Telecom (CQUPT) 
+- 🔭 **Major**: Electronic Information & Communication Engineering 
 - 🌱 **Learning**: Signals & Systems, Digital Signal Processing, Linear Algebra
-- 💻 **Stack**: Python (Data Structure), MATLAB (Simulation), C/C++
-- 🎬 **Hobbies**: Film Analysis (Jiang Wen), Sci-Fi, Sherlock Holmes
+- 💻 **Stack**: Python/MATLAB/C
+- 🎬 **Hobbies**: Film Analysis , Sci-Fi, Sherlock Holmes， Shan Yichun
 - 🚀 **Goal**: To become a professional Digital Engineer & Algorithm Expert.
 
 <div align="center">
@@ -31,7 +31,7 @@
 <h3>🛠️ 技术栈 (Tech Stack)</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,github,vscode,linux,windows&perline=15" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,matlab,c,java,pycharm,clion,idea,git,github,windows&perline=15" alt="My Skills" />
   </a>
 </p>
 
