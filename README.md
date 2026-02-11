@@ -44,7 +44,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1RER&theme=radical&hide_border=true&bg_color=00000000" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=A1RER&theme=radical&hide_border=true&bg_color=00000000" alt="streak stats" />
 </p>
 
 <!-- 蛇形动画：由 GitHub Actions (snake.yml) 自动生成，推送到 output 分支 -->
