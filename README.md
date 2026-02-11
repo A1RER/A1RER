@@ -19,8 +19,8 @@
 
 ### 🎯 关于我 (About Me)
 
-- 🎓 **University**: Chongqing Univ. of Posts & Telecom (CQUPT) 
-- 🔭 **Major**: Electronic Information & Communication Engineering 
+- 🎓 **University**: Chongqing Univ. of Posts & Telecom (CQUPT)
+- 🔭 **Major**: Electronic Information & Communication Engineering
 - 🌱 **Learning**: Signals & Systems, Digital Signal Processing, Linear Algebra
 - 💻 **Stack**: Python/MATLAB/C
 - 🎬 **Hobbies**: Film Analysis , Sci-Fi, Sherlock Holmes， Shan Yichun
@@ -47,10 +47,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1RER&theme=radical&hide_border=true&bg_color=00000000" alt="streak stats" />
 </p>
 
+<!-- 蛇形动画：由 GitHub Actions (snake.yml) 自动生成，推送到 output 分支 -->
+<!-- 首次需手动触发：Actions → Generate-Snake → Run workflow -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/A1RER/A1RER/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/A1RER/A1RER/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation"
+       src="https://raw.githubusercontent.com/A1RER/A1RER/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<!-- 3D贡献图：由 GitHub Actions (profile-3d.yml) 每天自动生成 -->
+<!-- 首次需手动触发：Actions → GitHub-Profile-3D-Contrib → Run workflow -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://cdn.jsdelivr.net/gh/A1RER/A1RER/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://cdn.jsdelivr.net/gh/A1RER/A1RER/profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution graph"
+       src="https://cdn.jsdelivr.net/gh/A1RER/A1RER/profile-3d-contrib/profile-night-green.svg"
+       width="95%" />
 </picture>
 
 </div>
