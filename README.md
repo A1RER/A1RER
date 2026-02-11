@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/A1RER">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+A1RER+%7C+CQUPT+Student;Major+in+Electronic+Information+%26+Communication;Python+%26+MATLAB+Developer;Exploring+Signal+Processing+%26+Film+Analysis..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+A1RER+%7C+CQUPT+Student;Major+in+Electronic+Information+%26+Communication;Python+%26+MATLAB+Developer;Exploring+Signal+Processing+%26+Film+Analysis..." alt="Typing SVG" />
 </a>
 
 <h3>📡 2024级本科在读 | 电子信息工程 / 通信工程</h3>
@@ -19,21 +19,38 @@
 
 ### 🎯 关于我 (About Me)
 
-```python
-class A1RER:
-    def __init__(self):
-        self.name = "A1RER"
-        self.university = "Chongqing University of Posts and Telecommunications (CQUPT)"
-        self.major = "Communication & Electronic Information Engineering"
-        self.grade = "Sophomore (2024 Grade)"
-        self.location = "Chongqing, China 🇨🇳"
+- 🎓 **University**: Chongqing Univ. of Posts & Telecom (CQUPT)
+- 🔭 **Major**: Electronic Information & Communication Engineering
+- 🌱 **Learning**: Signals & Systems, Digital Signal Processing, Linear Algebra
+- 💻 **Stack**: Python (Data Structure), MATLAB (Simulation), C/C++
+- 🎬 **Hobbies**: Film Analysis (Jiang Wen), Sci-Fi, Sherlock Holmes
+- 🚀 **Goal**: To become a professional Digital Engineer & Algorithm Expert.
 
-    def current_focus(self):
-        return {
-            "academic": ["Signals & Systems", "Digital Signal Processing", "Linear Algebra"],
-            "coding": ["Python (Data Structure)", "MATLAB (Simulation)", "C/C++"],
-            "hobbies": ["Film Analysis (Jiang Wen)", "Sci-Fi", "Sherlock Holmes"]
-        }
+<div align="center">
 
-    def future_goals(self):
-        return "To become a professional Digital Engineer & Algorithm Expert."
+<h3>🛠️ 技术栈 (Tech Stack)</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,github,vscode,linux,windows&perline=15" alt="My Skills" />
+  </a>
+</p>
+
+<br/>
+
+<h3>📊 GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=A1RER&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1RER&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="160" alt="languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1RER&theme=radical&hide_border=true&bg_color=00000000" alt="streak stats" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
