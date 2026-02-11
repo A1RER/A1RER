@@ -5,6 +5,10 @@ on:
     - cron: '0 12 * * *'   # 每天中午12点 UTC 自动运行
   workflow_dispatch:         # 支持手动触发
 
+# 必须显式声明写入权限，否则 git push 会报 403
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
