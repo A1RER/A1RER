@@ -31,7 +31,7 @@
 <h3>🛠️ 技术栈 (Tech Stack)</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,matlab,c,java,pycharm,clion,idea,git,github,windows&perline=15" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,matlab,c,java,pycharm,clion,idea,git,github,vscode,css,javascript,html,windows&perline=15" alt="My Skills" />
   </a>
 </p>
 
