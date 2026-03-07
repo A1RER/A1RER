@@ -9,7 +9,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=A1RER&label=Profile%20Views&color=0e75b6&style=flat" alt="访问量" />
   <a href="https://github.com/A1RER?tab=repositories">
-    <img src="https://img.shields.io/github/public-repositories/A1RER?label=Repos&color=success" alt="Repos">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FA1RER&query=%24.public_repos&label=Repos&color=success" alt="Repos">
   </a>
 </p>
 
@@ -61,11 +61,11 @@
 <!-- 首次需手动触发：Actions → GitHub-Profile-3D-Contrib → Run workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://cdn.jsdelivr.net/gh/A1RER/A1RER/profile-3d-contrib/profile-night-green.svg" />
+          srcset="https://raw.githubusercontent.com/A1RER/A1RER/main/profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://cdn.jsdelivr.net/gh/A1RER/A1RER/profile-3d-contrib/profile-season-animate.svg" />
+          srcset="https://raw.githubusercontent.com/A1RER/A1RER/main/profile-3d-contrib/profile-season-animate.svg" />
   <img alt="3D contribution graph"
-       src="https://cdn.jsdelivr.net/gh/A1RER/A1RER/profile-3d-contrib/profile-night-green.svg"
+       src="https://raw.githubusercontent.com/A1RER/A1RER/main/profile-3d-contrib/profile-night-green.svg"
        width="95%" />
 </picture>
 
