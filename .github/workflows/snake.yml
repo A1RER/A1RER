@@ -12,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       # 生成两个版本的蛇形动画 SVG（亮色 + 暗色）
