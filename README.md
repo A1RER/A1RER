@@ -11,6 +11,9 @@
   <a href="https://github.com/A1RER?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FA1RER&query=%24.public_repos&label=Repos&color=success" alt="Repos">
   </a>
+  <a href="https://github.com/A1RER?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.mateus.sh%2Fuser%2FA1RER&query=%24.stars&label=Stars&color=yellow" alt="Stars">
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
