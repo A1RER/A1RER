@@ -11,13 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       # 生成 3D 贡献图，输出到 profile-3d-contrib/ 目录
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       # 提交并推送生成的3D图到仓库
       - name: Commit & Push
@@ -25,5 +26,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Generated 3D-Contrib"
           git push
