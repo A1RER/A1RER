@@ -60,16 +60,6 @@
 
 <br/>
 
-<!-- 3D贡献图：由 GitHub Actions (profile-3d.yml) 每天自动生成 -->
-<!-- 首次需手动触发：Actions → GitHub-Profile-3D-Contrib → Run workflow -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/A1RER/A1RER/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/A1RER/A1RER/main/profile-3d-contrib/profile-season-animate.svg" />
-  <img alt="3D contribution graph"
-       src="https://raw.githubusercontent.com/A1RER/A1RER/main/profile-3d-contrib/profile-night-green.svg"
-       width="95%" />
-</picture>
+
 
 </div>
