@@ -9,8 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       # 生成 3D 贡献图，输出到 profile-3d-contrib/ 目录
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.2
