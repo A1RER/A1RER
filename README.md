@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+A1RER+%7C+CQUPT+Student;Major+in+Electronic+Information+%26+Communication;Python+%26+MATLAB+Developer;Exploring+Signal+Processing+%26+Film+Analysis..." alt="Typing SVG" />
 </a>
 
-<h3>📡 2024级本科在读 | 电子信息工程 / 通信工程</h3>
+<h3>📡 2024级-通信工程-本科在读</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=A1RER&label=Profile%20Views&color=0e75b6&style=flat" alt="访问量" />
@@ -23,7 +23,7 @@
 ### 🎯 关于我 (About Me)
 
 - 🎓 **University**: Chongqing Univ. of Posts & Telecom (CQUPT)
-- 🔭 **Major**: Electronic Information & Communication Engineering
+- 🔭 **Major**:  Communication Engineering
 - 🌱 **Learning**: Signals & Systems, Digital Signal Processing, Linear Algebra
 - 💻 **Stack**: Python/MATLAB/C
 - 🎬 **Hobbies**: Film Analysis , Sci-Fi, Sherlock Holmes， Shan Yichun
